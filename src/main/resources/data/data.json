@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "ticket": "1",
+      "sessionId": "333",
+      "personUuid":"1f66c5617f6745cba37ad5984c5ed555",
+      "result": "0",
+      "info": {
+        "userId":"1f66c5617f6745cba37ad5984c5ed555",
+        "userName":"超级管理员",
+        "loginName":"admin",
+        "sessionId":"333",
+        "acctType":"0",
+        "address":"",
+        "authorization":"",
+        "birthday":"",
+        "certtype":"",
+        "companyName":"杭州中软安人网络通信股份有限公司北京分公司",
+        "corpname":"",
+        "email":"111@qq.com",
+        "enterpriseUuid":"",
+        "idcardNo":"",
+        "mobile":"13888888888",
+        "personUuid":"1f66c5617f6745cba37ad5984c5ed555",
+        "phone":"",
+        "realName":"超级管理员",
+        "registeredNo":"91110108MA00D95X4N",
+        "sex":null
+      }
+    }
+  ]
+}
